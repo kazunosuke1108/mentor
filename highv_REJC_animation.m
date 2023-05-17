@@ -18,7 +18,6 @@ x_b1=x_b-x_b(1);
 y_b1=y_b-y_b(1);
 z_b1=z_b-z_b(1);
 
-length(A)
 fig= figure(); clf;
 frames(length(A)) = struct('cdata',[],'colormap',[]);
 
